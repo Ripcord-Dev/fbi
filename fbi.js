@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Tampermonkey Core Script
-// @version      0.2
+// @version      0.3
 // @include      *
-// @update       https://raw.githubusercontent.com/isse101/Userscripts/master/kerstin.js?token=AGKLYVE2QO5COZ4RJPOUGTK6K6SYU
-// @downloadURL  https://raw.githubusercontent.com/isse101/Userscripts/master/kerstin.js?token=AGKLYVE2QO5COZ4RJPOUGTK6K6SYU
-// @require		   https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+// @downloadURL  https://raw.githubusercontent.com/Ripcord-Dev/fbi/master/fbi.js
+// @update  	 https://raw.githubusercontent.com/Ripcord-Dev/fbi/master/fbi.js
+// @require	 https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // ==/UserScript==
 
 (function() {
